@@ -1,6 +1,6 @@
 ![banner](https://github.com/csanchezegea/EDA_def/blob/Dani/imagenes/Purple%20Simple%20Happy%20Halloween%20Facebook%20Cover.png)
 # OBJETIVOS
-
+- Utilizar la información sobre especialidades médicas para planificar la distribución de recursos médicos en áreas con necesidades específicas.
 
 # INTRODUCCION
 Este trabajo corresponde a un Analisis Exploratorio de datos de un Dataset sobre defunciones en Argentina.
