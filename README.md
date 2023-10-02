@@ -22,7 +22,7 @@ Las características del dataset son:
 - dataset: arg-def-mensual-15-21
 - cantidad de casos totales entre los años 2015-2020: 2.516.784 defunciones
 - variables disponibles: 11
- * nombre de las variables:
+-  nombre de las variables:
 - region: región
 - jurisdiccion : jurisdicciones nacionales
 - mes_anio_defunción: mes y año de defunción
