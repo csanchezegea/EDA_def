@@ -1,8 +1,9 @@
 ![banner](https://github.com/csanchezegea/EDA_def/blob/Dani/imagenes/Purple%20Simple%20Happy%20Halloween%20Facebook%20Cover.png)
 # OBJETIVOS
-Este trabajo corresponde a un Analisis Exploratorio de datos de un Dataset sobre defunciones en Argentina.
+
 
 # INTRODUCCION
+Este trabajo corresponde a un Analisis Exploratorio de datos de un Dataset sobre defunciones en Argentina.
 La limpieza de datos es una etapa fundamental en cualquier proyecto de análisis de datos. Los datos que utilizamos pueden estar sujetos a errores, valores faltantes o ruido, lo que puede comprometer la calidad de nuestros resultados. En este trabajo, abordaremos la limpieza de un dataset de defunciones, utilizando diversas herramientas y técnicas proporcionadas en clases.
 
 Para llevar a cabo este proceso, emplearemos las siguientes librerías de Python:
@@ -21,7 +22,7 @@ Las características del dataset son:
 - dataset: arg-def-mensual-15-21
 - cantidad de casos totales entre los años 2015-2020: 2.516.784 defunciones
 - variables disponibles: 11
-- nombre de las variables:
+ nombre de las variables:
 - region: región
 - jurisdiccion : jurisdicciones nacionales
 - mes_anio_defunción: mes y año de defunción
